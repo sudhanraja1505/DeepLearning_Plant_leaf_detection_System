@@ -143,6 +143,10 @@ python app.py
 
 Open `http://127.0.0.1:5000` in your browser, select a leaf image, and click **Analyze image**.
 
+<img width="1910" height="917" alt="Screenshot 2026-10-26 191950" src="https://github.com/user-attachments/assets/024fffc4-12e5-4579-acbe-f4fe267d5a64" />
+
+<img width="1897" height="891" alt="Screenshot 2026-10-26 192149" src="https://github.com/user-attachments/assets/b43b7806-d27c-413d-ac76-a110c9a0de72" />
+
 ## Troubleshooting
 
 - **Model not installed:** Run `python train_model.py` after preparing the dataset.
